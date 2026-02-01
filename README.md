@@ -36,8 +36,10 @@ O assistente mantém o histórico da conversa, permitindo interações contínua
 4-Autorize o acesso ao microfone e fale quando solicitado
 ## ⚠️ Observações
 
-Funciona apenas no Google Colab
+- Funciona apenas no Google Colab
 
-Requer conexão com a internet
+- Requer conexão com a internet
 
-Necessita de navegador com acesso ao microfone
+- Necessita de navegador com acesso ao microfone
+
+- A estrutura inicial deste projeto foi fornecida pelo professor Venilton, da DIO (Digital Innovation One), como parte de um conteúdo educacional. A partir dessa base, o código foi adaptado e expandido para implementar um assistente conversacional por voz com integração de IA.
